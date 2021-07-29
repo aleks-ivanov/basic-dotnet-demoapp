@@ -19,13 +19,7 @@
 		"ms-dotnettools.csharp",
 		"VisualStudioExptTeam.vscodeintellicode",
 		"ms-vscode.powershell",
-		"jmrog.vscode-nuget-package-manager",
-		// JS/TS specific
-		"dbaeumer.vscode-eslint",
-		"ms-vscode.vscode-typescript-next",
-		"ecmel.vscode-html-css",
-    // C/CPP specific
-    "ms-vscode.cpptools"
+		"jmrog.vscode-nuget-package-manager"
 	],
 	"postCreateCommand": "",
 	"build": {
